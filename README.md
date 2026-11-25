@@ -49,6 +49,7 @@ Economy names were matched to WDI names. Four names required manual mapping in `
 - The main income control is mean log GDP per capita over 2016–2025. For surveys outside that period, the survey-year check uses the nearest available year.
 - Institutional, sectoral, and regional controls are not included.
 - `results/analysis_results.md` reports an earlier exploratory analysis and is not the final income-adjusted specification.
+- The manuscript reports `p = .002` for the regression of the large–small productivity gap on small-firm productivity growth, while the earlier exploratory report gives `p = .0147` for a slope of approximately `−0.23`. Re-run the final specification and reconcile this value before journal submission.
 - The custom OLS, quantile, Huber, bootstrap, and other estimators require independent validation before publication.
 
 ## Citation
