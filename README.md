@@ -8,7 +8,7 @@ The analysis is a cross-section of economies, with one firm-survey year per econ
 
 | Path | Contents |
 |---|---|
-| `paper/` | Manuscript working draft supplied with the repository. |
+| `paper/` | Original manuscript supplied with the repository and a Q1-edited draft. |
 | `data/country_panel_wide.csv` | Economy-level dataset with one row per economy. |
 | `data/country_panel_long.csv` | Long-format dataset by economy, survey year, indicator, and firm group. |
 | `data/indicator_dictionary.csv` | Indicator codes, labels, firm group, and coverage counts. |
@@ -58,4 +58,4 @@ See `CITATION.cff` for repository citation metadata. Cite the associated manuscr
 
 ## Licensing
 
-Original code under `code/` is licensed under the MIT licence in `LICENSE`. Data and analysis outputs are covered by `DATA_LICENSE.md` only where the repository authors hold the necessary rights. Third-party materials remain subject to their own terms. The manuscript in `paper/` is not covered by these licences.
+Original code under `code/` is licensed under the MIT licence in `LICENSE`. Data and analysis outputs are covered by `DATA_LICENSE.md` only where the repository authors hold the necessary rights. Third-party materials remain subject to their own terms. The manuscripts in `paper/` are not covered by these licences. The edited draft still contains an author-action note for missing source/licence details; reconcile the noted statistical discrepancy before treating it as final.
