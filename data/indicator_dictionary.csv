@@ -1,0 +1,353 @@
+indicator_code,family,indicator,segment,var,economies_nonmissing
+bready_fin26,Finance,"[B-READY] Percent of firms reporting unfavorable rates, collateral, or procedures as main reason for not applying for loans",10% or more foreign ownership,bready_fin26__10_or_more_foreign_ownership,168
+bready_fin26,Finance,"[B-READY] Percent of firms reporting unfavorable rates, collateral, or procedures as main reason for not applying for loans",All,bready_fin26,181
+bready_fin26,Finance,"[B-READY] Percent of firms reporting unfavorable rates, collateral, or procedures as main reason for not applying for loans",Domestic,bready_fin26__Domestic,181
+bready_fin26,Finance,"[B-READY] Percent of firms reporting unfavorable rates, collateral, or procedures as main reason for not applying for loans",Large (100+),bready_fin26__Large_100,163
+bready_fin26,Finance,"[B-READY] Percent of firms reporting unfavorable rates, collateral, or procedures as main reason for not applying for loans",Medium (20-99),bready_fin26__Medium_20_99,181
+bready_fin26,Finance,"[B-READY] Percent of firms reporting unfavorable rates, collateral, or procedures as main reason for not applying for loans",Small (5-19),bready_fin26__Small_5_19,181
+bready_fin26,Finance,"[B-READY] Percent of firms reporting unfavorable rates, collateral, or procedures as main reason for not applying for loans",Top manager is female,bready_fin26__Top_manager_is_female,177
+bready_fin26,Finance,"[B-READY] Percent of firms reporting unfavorable rates, collateral, or procedures as main reason for not applying for loans",Top manager is male,bready_fin26__Top_manager_is_male,180
+bready_fin27,Finance,[B-READY] Average days to receive a decision on loan application,10% or more foreign ownership,bready_fin27__10_or_more_foreign_ownership,76
+bready_fin27,Finance,[B-READY] Average days to receive a decision on loan application,All,bready_fin27,157
+bready_fin27,Finance,[B-READY] Average days to receive a decision on loan application,Domestic,bready_fin27__Domestic,154
+bready_fin27,Finance,[B-READY] Average days to receive a decision on loan application,Large (100+),bready_fin27__Large_100,102
+bready_fin27,Finance,[B-READY] Average days to receive a decision on loan application,Medium (20-99),bready_fin27__Medium_20_99,130
+bready_fin27,Finance,[B-READY] Average days to receive a decision on loan application,Small (5-19),bready_fin27__Small_5_19,136
+bready_fin27,Finance,[B-READY] Average days to receive a decision on loan application,Top manager is female,bready_fin27__Top_manager_is_female,97
+bready_fin27,Finance,[B-READY] Average days to receive a decision on loan application,Top manager is male,bready_fin27__Top_manager_is_male,152
+bready_t10,Innovation_and_Technology,[B-READY] Percent of medium and large firms that spend on R&D in the last fiscal years,10% or more foreign ownership,bready_t10__10_or_more_foreign_ownership,165
+bready_t10,Innovation_and_Technology,[B-READY] Percent of medium and large firms that spend on R&D in the last fiscal years,All,bready_t10,179
+bready_t10,Innovation_and_Technology,[B-READY] Percent of medium and large firms that spend on R&D in the last fiscal years,Direct exports are 10% or more of sales,bready_t10__Direct_exports_are_10_or_more_of_sales,154
+bready_t10,Innovation_and_Technology,[B-READY] Percent of medium and large firms that spend on R&D in the last fiscal years,Domestic,bready_t10__Domestic,179
+bready_t10,Innovation_and_Technology,[B-READY] Percent of medium and large firms that spend on R&D in the last fiscal years,Large (100+),bready_t10__Large_100,165
+bready_t10,Innovation_and_Technology,[B-READY] Percent of medium and large firms that spend on R&D in the last fiscal years,Medium (20-99),bready_t10__Medium_20_99,179
+bready_t10,Innovation_and_Technology,[B-READY] Percent of medium and large firms that spend on R&D in the last fiscal years,Non-exporter,bready_t10__Non_exporter,178
+bready_t10,Innovation_and_Technology,[B-READY] Percent of medium and large firms that spend on R&D in the last fiscal years,Top manager is female,bready_t10__Top_manager_is_female,156
+bready_t10,Innovation_and_Technology,[B-READY] Percent of medium and large firms that spend on R&D in the last fiscal years,Top manager is male,bready_t10__Top_manager_is_male,179
+bready_t7_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a new product/service over last 3 years,10% or more foreign ownership,bready_t7_ml__10_or_more_foreign_ownership,166
+bready_t7_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a new product/service over last 3 years,All,bready_t7_ml,179
+bready_t7_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a new product/service over last 3 years,Direct exports are 10% or more of sales,bready_t7_ml__Direct_exports_are_10_or_more_of_sales,154
+bready_t7_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a new product/service over last 3 years,Domestic,bready_t7_ml__Domestic,179
+bready_t7_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a new product/service over last 3 years,Large (100+),bready_t7_ml__Large_100,165
+bready_t7_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a new product/service over last 3 years,Medium (20-99),bready_t7_ml__Medium_20_99,179
+bready_t7_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a new product/service over last 3 years,Non-exporter,bready_t7_ml__Non_exporter,178
+bready_t7_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a new product/service over last 3 years,Top manager is female,bready_t7_ml__Top_manager_is_female,156
+bready_t7_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a new product/service over last 3 years,Top manager is male,bready_t7_ml__Top_manager_is_male,179
+bready_t9_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a process innovation over last 3 years,10% or more foreign ownership,bready_t9_ml__10_or_more_foreign_ownership,166
+bready_t9_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a process innovation over last 3 years,All,bready_t9_ml,179
+bready_t9_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a process innovation over last 3 years,Direct exports are 10% or more of sales,bready_t9_ml__Direct_exports_are_10_or_more_of_sales,154
+bready_t9_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a process innovation over last 3 years,Domestic,bready_t9_ml__Domestic,179
+bready_t9_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a process innovation over last 3 years,Large (100+),bready_t9_ml__Large_100,165
+bready_t9_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a process innovation over last 3 years,Medium (20-99),bready_t9_ml__Medium_20_99,179
+bready_t9_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a process innovation over last 3 years,Non-exporter,bready_t9_ml__Non_exporter,178
+bready_t9_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a process innovation over last 3 years,Top manager is female,bready_t9_ml__Top_manager_is_female,156
+bready_t9_ml,Innovation_and_Technology,[B-READY] Percent of medium and large firms that introduced a process innovation over last 3 years,Top manager is male,bready_t9_ml__Top_manager_is_male,179
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,10% or more foreign ownership,bready_wk1__10_or_more_foreign_ownership,170
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,All,bready_wk1,180
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,Direct exports are 10% or more of sales,bready_wk1__Direct_exports_are_10_or_more_of_sales,170
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,Domestic,bready_wk1__Domestic,180
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,Large (100+),bready_wk1__Large_100,167
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,Manufacturing (All),bready_wk1__Manufacturing_All,180
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,Medium (20-99),bready_wk1__Medium_20_99,180
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,Non-exporter,bready_wk1__Non_exporter,180
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,Services (All),bready_wk1__Services_All,179
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,Small (5-19),bready_wk1__Small_5_19,180
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,Top manager is female,bready_wk1__Top_manager_is_female,177
+bready_wk1,Workforce,[B-READY] Percent of firms offering formal training over last fiscal year,Top manager is male,bready_wk1__Top_manager_is_male,180
+car1,Firm_Profile,Average age of the establishment (years),10% or more foreign ownership,car1__10_or_more_foreign_ownership,172
+car1,Firm_Profile,Average age of the establishment (years),All,car1,181
+car1,Firm_Profile,Average age of the establishment (years),Direct exports are 10% or more of sales,car1__Direct_exports_are_10_or_more_of_sales,171
+car1,Firm_Profile,Average age of the establishment (years),Domestic,car1__Domestic,181
+car1,Firm_Profile,Average age of the establishment (years),Large (100+),car1__Large_100,168
+car1,Firm_Profile,Average age of the establishment (years),Medium (20-99),car1__Medium_20_99,181
+car1,Firm_Profile,Average age of the establishment (years),Non-exporter,car1__Non_exporter,181
+car1,Firm_Profile,Average age of the establishment (years),Small (5-19),car1__Small_5_19,181
+car1,Firm_Profile,Average age of the establishment (years),Top manager is female,car1__Top_manager_is_female,177
+car1,Firm_Profile,Average age of the establishment (years),Top manager is male,car1__Top_manager_is_male,180
+fin11,Finance,Average proportion of loans requiring collateral (%),10% or more foreign ownership,fin11__10_or_more_foreign_ownership,135
+fin11,Finance,Average proportion of loans requiring collateral (%),All,fin11,181
+fin11,Finance,Average proportion of loans requiring collateral (%),Domestic,fin11__Domestic,180
+fin11,Finance,Average proportion of loans requiring collateral (%),Large (100+),fin11__Large_100,140
+fin11,Finance,Average proportion of loans requiring collateral (%),Medium (20-99),fin11__Medium_20_99,177
+fin11,Finance,Average proportion of loans requiring collateral (%),Small (5-19),fin11__Small_5_19,177
+fin11,Finance,Average proportion of loans requiring collateral (%),Top manager is female,fin11__Top_manager_is_female,144
+fin11,Finance,Average proportion of loans requiring collateral (%),Top manager is male,fin11__Top_manager_is_male,180
+fin14,Finance,Percent of firms with a bank loan/line of credit,10% or more foreign ownership,fin14__10_or_more_foreign_ownership,172
+fin14,Finance,Percent of firms with a bank loan/line of credit,All,fin14,181
+fin14,Finance,Percent of firms with a bank loan/line of credit,Domestic,fin14__Domestic,181
+fin14,Finance,Percent of firms with a bank loan/line of credit,Large (100+),fin14__Large_100,168
+fin14,Finance,Percent of firms with a bank loan/line of credit,Medium (20-99),fin14__Medium_20_99,181
+fin14,Finance,Percent of firms with a bank loan/line of credit,Small (5-19),fin14__Small_5_19,181
+fin14,Finance,Percent of firms with a bank loan/line of credit,Top manager is female,fin14__Top_manager_is_female,177
+fin14,Finance,Percent of firms with a bank loan/line of credit,Top manager is male,fin14__Top_manager_is_male,180
+fin15,Finance,Percent of firms with a checking or savings account,10% or more foreign ownership,fin15__10_or_more_foreign_ownership,172
+fin15,Finance,Percent of firms with a checking or savings account,All,fin15,181
+fin15,Finance,Percent of firms with a checking or savings account,Domestic,fin15__Domestic,181
+fin15,Finance,Percent of firms with a checking or savings account,Large (100+),fin15__Large_100,168
+fin15,Finance,Percent of firms with a checking or savings account,Medium (20-99),fin15__Medium_20_99,181
+fin15,Finance,Percent of firms with a checking or savings account,Small (5-19),fin15__Small_5_19,181
+fin15,Finance,Percent of firms with a checking or savings account,Top manager is female,fin15__Top_manager_is_female,177
+fin15,Finance,Percent of firms with a checking or savings account,Top manager is male,fin15__Top_manager_is_male,180
+fin20,Finance,Percent of firms not needing a loan,10% or more foreign ownership,fin20__10_or_more_foreign_ownership,171
+fin20,Finance,Percent of firms not needing a loan,All,fin20,181
+fin20,Finance,Percent of firms not needing a loan,Domestic,fin20__Domestic,181
+fin20,Finance,Percent of firms not needing a loan,Large (100+),fin20__Large_100,168
+fin20,Finance,Percent of firms not needing a loan,Medium (20-99),fin20__Medium_20_99,181
+fin20,Finance,Percent of firms not needing a loan,Small (5-19),fin20__Small_5_19,181
+fin20,Finance,Percent of firms not needing a loan,Top manager is female,fin20__Top_manager_is_female,177
+fin20,Finance,Percent of firms not needing a loan,Top manager is male,fin20__Top_manager_is_male,180
+fin21,Finance,Percent of firms whose recent loan application was rejected,10% or more foreign ownership,fin21__10_or_more_foreign_ownership,102
+fin21,Finance,Percent of firms whose recent loan application was rejected,All,fin21,170
+fin21,Finance,Percent of firms whose recent loan application was rejected,Domestic,fin21__Domestic,168
+fin21,Finance,Percent of firms whose recent loan application was rejected,Large (100+),fin21__Large_100,130
+fin21,Finance,Percent of firms whose recent loan application was rejected,Medium (20-99),fin21__Medium_20_99,153
+fin21,Finance,Percent of firms whose recent loan application was rejected,Small (5-19),fin21__Small_5_19,158
+fin21,Finance,Percent of firms whose recent loan application was rejected,Top manager is female,fin21__Top_manager_is_female,124
+fin21,Finance,Percent of firms whose recent loan application was rejected,Top manager is male,fin21__Top_manager_is_male,170
+fin23,Finance,Percent of firms that are fully credit constrained,10% or more foreign ownership,fin23__10_or_more_foreign_ownership,164
+fin23,Finance,Percent of firms that are fully credit constrained,All,fin23,173
+fin23,Finance,Percent of firms that are fully credit constrained,Domestic,fin23__Domestic,173
+fin23,Finance,Percent of firms that are fully credit constrained,Large (100+),fin23__Large_100,161
+fin23,Finance,Percent of firms that are fully credit constrained,Medium (20-99),fin23__Medium_20_99,173
+fin23,Finance,Percent of firms that are fully credit constrained,Small (5-19),fin23__Small_5_19,173
+fin23,Finance,Percent of firms that are fully credit constrained,Top manager is female,fin23__Top_manager_is_female,170
+fin23,Finance,Percent of firms that are fully credit constrained,Top manager is male,fin23__Top_manager_is_male,173
+fin24,Finance,Percent of firms that are partially credit constrained,10% or more foreign ownership,fin24__10_or_more_foreign_ownership,164
+fin24,Finance,Percent of firms that are partially credit constrained,All,fin24,173
+fin24,Finance,Percent of firms that are partially credit constrained,Domestic,fin24__Domestic,173
+fin24,Finance,Percent of firms that are partially credit constrained,Large (100+),fin24__Large_100,161
+fin24,Finance,Percent of firms that are partially credit constrained,Medium (20-99),fin24__Medium_20_99,173
+fin24,Finance,Percent of firms that are partially credit constrained,Small (5-19),fin24__Small_5_19,173
+fin24,Finance,Percent of firms that are partially credit constrained,Top manager is female,fin24__Top_manager_is_female,170
+fin24,Finance,Percent of firms that are partially credit constrained,Top manager is male,fin24__Top_manager_is_male,173
+fin34,Finance,Percent of firms that are fully or partially credit constrained,10% or more foreign ownership,fin34__10_or_more_foreign_ownership,164
+fin34,Finance,Percent of firms that are fully or partially credit constrained,All,fin34,173
+fin34,Finance,Percent of firms that are fully or partially credit constrained,Domestic,fin34__Domestic,173
+fin34,Finance,Percent of firms that are fully or partially credit constrained,Large (100+),fin34__Large_100,161
+fin34,Finance,Percent of firms that are fully or partially credit constrained,Medium (20-99),fin34__Medium_20_99,173
+fin34,Finance,Percent of firms that are fully or partially credit constrained,Small (5-19),fin34__Small_5_19,173
+fin34,Finance,Percent of firms that are fully or partially credit constrained,Top manager is female,fin34__Top_manager_is_female,170
+fin34,Finance,Percent of firms that are fully or partially credit constrained,Top manager is male,fin34__Top_manager_is_male,173
+jobs1,Jobs,Jobs share,10% or more foreign ownership,jobs1__10_or_more_foreign_ownership,172
+jobs1,Jobs,Jobs share,All,jobs1,181
+jobs1,Jobs,Jobs share,Direct exports are 10% or more of sales,jobs1__Direct_exports_are_10_or_more_of_sales,171
+jobs1,Jobs,Jobs share,Domestic,jobs1__Domestic,181
+jobs1,Jobs,Jobs share,Large (100+),jobs1__Large_100,163
+jobs1,Jobs,Jobs share,Medium (20-99),jobs1__Medium_20_99,181
+jobs1,Jobs,Jobs share,Non-exporter,jobs1__Non_exporter,181
+jobs1,Jobs,Jobs share,Small (5-19),jobs1__Small_5_19,181
+jobs1,Jobs,Jobs share,Top manager is female,jobs1__Top_manager_is_female,177
+jobs1,Jobs,Jobs share,Top manager is male,jobs1__Top_manager_is_male,180
+jobs2,Jobs,Firms that added jobs,10% or more foreign ownership,jobs2__10_or_more_foreign_ownership,172
+jobs2,Jobs,Firms that added jobs,All,jobs2,181
+jobs2,Jobs,Firms that added jobs,Direct exports are 10% or more of sales,jobs2__Direct_exports_are_10_or_more_of_sales,171
+jobs2,Jobs,Firms that added jobs,Domestic,jobs2__Domestic,181
+jobs2,Jobs,Firms that added jobs,Non-exporter,jobs2__Non_exporter,181
+jobs2,Jobs,Firms that added jobs,Top manager is female,jobs2__Top_manager_is_female,177
+jobs2,Jobs,Firms that added jobs,Top manager is male,jobs2__Top_manager_is_male,180
+jobs3,Jobs,Job expansion,10% or more foreign ownership,jobs3__10_or_more_foreign_ownership,159
+jobs3,Jobs,Job expansion,All,jobs3,181
+jobs3,Jobs,Job expansion,Direct exports are 10% or more of sales,jobs3__Direct_exports_are_10_or_more_of_sales,149
+jobs3,Jobs,Job expansion,Domestic,jobs3__Domestic,181
+jobs3,Jobs,Job expansion,Non-exporter,jobs3__Non_exporter,181
+jobs3,Jobs,Job expansion,Top manager is female,jobs3__Top_manager_is_female,170
+jobs3,Jobs,Job expansion,Top manager is male,jobs3__Top_manager_is_male,180
+jobs4,Jobs,Share in job expansion,10% or more foreign ownership,jobs4__10_or_more_foreign_ownership,159
+jobs4,Jobs,Share in job expansion,All,jobs4,181
+jobs4,Jobs,Share in job expansion,Direct exports are 10% or more of sales,jobs4__Direct_exports_are_10_or_more_of_sales,149
+jobs4,Jobs,Share in job expansion,Domestic,jobs4__Domestic,181
+jobs4,Jobs,Share in job expansion,Non-exporter,jobs4__Non_exporter,181
+jobs4,Jobs,Share in job expansion,Top manager is female,jobs4__Top_manager_is_female,170
+jobs4,Jobs,Share in job expansion,Top manager is male,jobs4__Top_manager_is_male,180
+jobs5,Jobs,Firms that reduced jobs,10% or more foreign ownership,jobs5__10_or_more_foreign_ownership,172
+jobs5,Jobs,Firms that reduced jobs,All,jobs5,181
+jobs5,Jobs,Firms that reduced jobs,Direct exports are 10% or more of sales,jobs5__Direct_exports_are_10_or_more_of_sales,171
+jobs5,Jobs,Firms that reduced jobs,Domestic,jobs5__Domestic,181
+jobs5,Jobs,Firms that reduced jobs,Non-exporter,jobs5__Non_exporter,181
+jobs5,Jobs,Firms that reduced jobs,Top manager is female,jobs5__Top_manager_is_female,177
+jobs5,Jobs,Firms that reduced jobs,Top manager is male,jobs5__Top_manager_is_male,180
+jobs6,Jobs,Job contraction,10% or more foreign ownership,jobs6__10_or_more_foreign_ownership,109
+jobs6,Jobs,Job contraction,All,jobs6,178
+jobs6,Jobs,Job contraction,Direct exports are 10% or more of sales,jobs6__Direct_exports_are_10_or_more_of_sales,99
+jobs6,Jobs,Job contraction,Domestic,jobs6__Domestic,177
+jobs6,Jobs,Job contraction,Non-exporter,jobs6__Non_exporter,177
+jobs6,Jobs,Job contraction,Top manager is female,jobs6__Top_manager_is_female,115
+jobs6,Jobs,Job contraction,Top manager is male,jobs6__Top_manager_is_male,174
+jobs7,Jobs,Share in job contraction,10% or more foreign ownership,jobs7__10_or_more_foreign_ownership,109
+jobs7,Jobs,Share in job contraction,All,jobs7,178
+jobs7,Jobs,Share in job contraction,Direct exports are 10% or more of sales,jobs7__Direct_exports_are_10_or_more_of_sales,99
+jobs7,Jobs,Share in job contraction,Domestic,jobs7__Domestic,177
+jobs7,Jobs,Share in job contraction,Non-exporter,jobs7__Non_exporter,177
+jobs7,Jobs,Share in job contraction,Top manager is female,jobs7__Top_manager_is_female,115
+jobs7,Jobs,Share in job contraction,Top manager is male,jobs7__Top_manager_is_male,174
+jobs8,Jobs,Net job creation,10% or more foreign ownership,jobs8__10_or_more_foreign_ownership,172
+jobs8,Jobs,Net job creation,All,jobs8,181
+jobs8,Jobs,Net job creation,Direct exports are 10% or more of sales,jobs8__Direct_exports_are_10_or_more_of_sales,171
+jobs8,Jobs,Net job creation,Domestic,jobs8__Domestic,181
+jobs8,Jobs,Net job creation,Non-exporter,jobs8__Non_exporter,181
+jobs8,Jobs,Net job creation,Top manager is female,jobs8__Top_manager_is_female,177
+jobs8,Jobs,Net job creation,Top manager is male,jobs8__Top_manager_is_male,180
+jobs9,Jobs,Share in net job creation,10% or more foreign ownership,jobs9__10_or_more_foreign_ownership,172
+jobs9,Jobs,Share in net job creation,All,jobs9,181
+jobs9,Jobs,Share in net job creation,Direct exports are 10% or more of sales,jobs9__Direct_exports_are_10_or_more_of_sales,171
+jobs9,Jobs,Share in net job creation,Domestic,jobs9__Domestic,181
+jobs9,Jobs,Share in net job creation,Non-exporter,jobs9__Non_exporter,181
+jobs9,Jobs,Share in net job creation,Top manager is female,jobs9__Top_manager_is_female,177
+jobs9,Jobs,Share in net job creation,Top manager is male,jobs9__Top_manager_is_male,180
+mgmt1,Management_Practices,Average management practices index for medium and large firms,10% or more foreign ownership,mgmt1__10_or_more_foreign_ownership,145
+mgmt1,Management_Practices,Average management practices index for medium and large firms,All,mgmt1,168
+mgmt1,Management_Practices,Average management practices index for medium and large firms,Direct exports are 10% or more of sales,mgmt1__Direct_exports_are_10_or_more_of_sales,139
+mgmt1,Management_Practices,Average management practices index for medium and large firms,Domestic,mgmt1__Domestic,168
+mgmt1,Management_Practices,Average management practices index for medium and large firms,Large (100+),mgmt1__Large_100,155
+mgmt1,Management_Practices,Average management practices index for medium and large firms,Manufacturing (All),mgmt1__Manufacturing_All,159
+mgmt1,Management_Practices,Average management practices index for medium and large firms,Medium (20-99),mgmt1__Medium_20_99,168
+mgmt1,Management_Practices,Average management practices index for medium and large firms,Non-exporter,mgmt1__Non_exporter,168
+mgmt1,Management_Practices,Average management practices index for medium and large firms,Services (All),mgmt1__Services_All,167
+mgmt1,Management_Practices,Average management practices index for medium and large firms,Top manager is female,mgmt1__Top_manager_is_female,139
+mgmt1,Management_Practices,Average management practices index for medium and large firms,Top manager is male,mgmt1__Top_manager_is_male,167
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,10% or more foreign ownership,mgmt2__10_or_more_foreign_ownership,152
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,All,mgmt2,169
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,Direct exports are 10% or more of sales,mgmt2__Direct_exports_are_10_or_more_of_sales,141
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,Domestic,mgmt2__Domestic,169
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,Large (100+),mgmt2__Large_100,157
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,Manufacturing (All),mgmt2__Manufacturing_All,161
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,Medium (20-99),mgmt2__Medium_20_99,168
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,Non-exporter,mgmt2__Non_exporter,168
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,Services (All),mgmt2__Services_All,168
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,Top manager is female,mgmt2__Top_manager_is_female,144
+mgmt2,Management_Practices,Average score of medium and large firms on action when a problem arose,Top manager is male,mgmt2__Top_manager_is_male,169
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,10% or more foreign ownership,mgmt3__10_or_more_foreign_ownership,155
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,All,mgmt3,169
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,Direct exports are 10% or more of sales,mgmt3__Direct_exports_are_10_or_more_of_sales,141
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,Domestic,mgmt3__Domestic,169
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,Large (100+),mgmt3__Large_100,158
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,Manufacturing (All),mgmt3__Manufacturing_All,162
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,Medium (20-99),mgmt3__Medium_20_99,169
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,Non-exporter,mgmt3__Non_exporter,169
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,Services (All),mgmt3__Services_All,169
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,Top manager is female,mgmt3__Top_manager_is_female,149
+mgmt3,Management_Practices,Average score of medium and large firms on number of performance indicators monitored,Top manager is male,mgmt3__Top_manager_is_male,169
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,10% or more foreign ownership,mgmt4__10_or_more_foreign_ownership,156
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,All,mgmt4,169
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,Direct exports are 10% or more of sales,mgmt4__Direct_exports_are_10_or_more_of_sales,141
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,Domestic,mgmt4__Domestic,169
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,Large (100+),mgmt4__Large_100,158
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,Manufacturing (All),mgmt4__Manufacturing_All,162
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,Medium (20-99),mgmt4__Medium_20_99,169
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,Non-exporter,mgmt4__Non_exporter,169
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,Services (All),mgmt4__Services_All,169
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,Top manager is female,mgmt4__Top_manager_is_female,147
+mgmt4,Management_Practices,Average score of medium and large firms on time focus of production/service provision targets,Top manager is male,mgmt4__Top_manager_is_male,169
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,10% or more foreign ownership,mgmt5__10_or_more_foreign_ownership,156
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,All,mgmt5,169
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,Direct exports are 10% or more of sales,mgmt5__Direct_exports_are_10_or_more_of_sales,141
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,Domestic,mgmt5__Domestic,169
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,Large (100+),mgmt5__Large_100,158
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,Manufacturing (All),mgmt5__Manufacturing_All,162
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,Medium (20-99),mgmt5__Medium_20_99,169
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,Non-exporter,mgmt5__Non_exporter,169
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,Services (All),mgmt5__Services_All,169
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,Top manager is female,mgmt5__Top_manager_is_female,147
+mgmt5,Management_Practices,Average score of medium and large firms on achievability of production/service provision targets,Top manager is male,mgmt5__Top_manager_is_male,169
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,10% or more foreign ownership,mgmt6__10_or_more_foreign_ownership,156
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,All,mgmt6,169
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,Direct exports are 10% or more of sales,mgmt6__Direct_exports_are_10_or_more_of_sales,141
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,Domestic,mgmt6__Domestic,169
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,Large (100+),mgmt6__Large_100,158
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,Manufacturing (All),mgmt6__Manufacturing_All,162
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,Medium (20-99),mgmt6__Medium_20_99,169
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,Non-exporter,mgmt6__Non_exporter,169
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,Services (All),mgmt6__Services_All,169
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,Top manager is female,mgmt6__Top_manager_is_female,147
+mgmt6,Management_Practices,Average score of medium and large firms on knowledge of production/service provision targets,Top manager is male,mgmt6__Top_manager_is_male,169
+perf1,Firm_Profile,Average real annual sales growth (%),10% or more foreign ownership,perf1__10_or_more_foreign_ownership,99
+perf1,Firm_Profile,Average real annual sales growth (%),All,perf1,180
+perf1,Firm_Profile,Average real annual sales growth (%),Direct exports are 10% or more of sales,perf1__Direct_exports_are_10_or_more_of_sales,109
+perf1,Firm_Profile,Average real annual sales growth (%),Domestic,perf1__Domestic,180
+perf1,Firm_Profile,Average real annual sales growth (%),Large (100+),perf1__Large_100,124
+perf1,Firm_Profile,Average real annual sales growth (%),Medium (20-99),perf1__Medium_20_99,165
+perf1,Firm_Profile,Average real annual sales growth (%),Non-exporter,perf1__Non_exporter,180
+perf1,Firm_Profile,Average real annual sales growth (%),Small (5-19),perf1__Small_5_19,175
+perf1,Firm_Profile,Average real annual sales growth (%),Top manager is female,perf1__Top_manager_is_female,121
+perf1,Firm_Profile,Average real annual sales growth (%),Top manager is male,perf1__Top_manager_is_male,179
+perf2,Firm_Profile,Average annual employment growth (%),10% or more foreign ownership,perf2__10_or_more_foreign_ownership,108
+perf2,Firm_Profile,Average annual employment growth (%),All,perf2,181
+perf2,Firm_Profile,Average annual employment growth (%),Direct exports are 10% or more of sales,perf2__Direct_exports_are_10_or_more_of_sales,119
+perf2,Firm_Profile,Average annual employment growth (%),Domestic,perf2__Domestic,181
+perf2,Firm_Profile,Average annual employment growth (%),Large (100+),perf2__Large_100,130
+perf2,Firm_Profile,Average annual employment growth (%),Medium (20-99),perf2__Medium_20_99,174
+perf2,Firm_Profile,Average annual employment growth (%),Non-exporter,perf2__Non_exporter,181
+perf2,Firm_Profile,Average annual employment growth (%),Small (5-19),perf2__Small_5_19,180
+perf2,Firm_Profile,Average annual employment growth (%),Top manager is female,perf2__Top_manager_is_female,131
+perf2,Firm_Profile,Average annual employment growth (%),Top manager is male,perf2__Top_manager_is_male,180
+perf3,Firm_Profile,Average real annual labor productivity growth (%),10% or more foreign ownership,perf3__10_or_more_foreign_ownership,94
+perf3,Firm_Profile,Average real annual labor productivity growth (%),All,perf3,180
+perf3,Firm_Profile,Average real annual labor productivity growth (%),Direct exports are 10% or more of sales,perf3__Direct_exports_are_10_or_more_of_sales,106
+perf3,Firm_Profile,Average real annual labor productivity growth (%),Domestic,perf3__Domestic,180
+perf3,Firm_Profile,Average real annual labor productivity growth (%),Large (100+),perf3__Large_100,117
+perf3,Firm_Profile,Average real annual labor productivity growth (%),Medium (20-99),perf3__Medium_20_99,165
+perf3,Firm_Profile,Average real annual labor productivity growth (%),Non-exporter,perf3__Non_exporter,180
+perf3,Firm_Profile,Average real annual labor productivity growth (%),Small (5-19),perf3__Small_5_19,175
+perf3,Firm_Profile,Average real annual labor productivity growth (%),Top manager is female,perf3__Top_manager_is_female,121
+perf3,Firm_Profile,Average real annual labor productivity growth (%),Top manager is male,perf3__Top_manager_is_male,179
+perf4,Firm_Profile,Percent of firms buying fixed assets,10% or more foreign ownership,perf4__10_or_more_foreign_ownership,172
+perf4,Firm_Profile,Percent of firms buying fixed assets,All,perf4,181
+perf4,Firm_Profile,Percent of firms buying fixed assets,Direct exports are 10% or more of sales,perf4__Direct_exports_are_10_or_more_of_sales,171
+perf4,Firm_Profile,Percent of firms buying fixed assets,Domestic,perf4__Domestic,181
+perf4,Firm_Profile,Percent of firms buying fixed assets,Large (100+),perf4__Large_100,168
+perf4,Firm_Profile,Percent of firms buying fixed assets,Medium (20-99),perf4__Medium_20_99,181
+perf4,Firm_Profile,Percent of firms buying fixed assets,Non-exporter,perf4__Non_exporter,181
+perf4,Firm_Profile,Percent of firms buying fixed assets,Small (5-19),perf4__Small_5_19,181
+perf4,Firm_Profile,Percent of firms buying fixed assets,Top manager is female,perf4__Top_manager_is_female,177
+perf4,Firm_Profile,Percent of firms buying fixed assets,Top manager is male,perf4__Top_manager_is_male,180
+t3,Firm_Profile,Average capacity utilization (%)*,10% or more foreign ownership,t3__10_or_more_foreign_ownership,133
+t3,Firm_Profile,Average capacity utilization (%)*,All,t3,172
+t3,Firm_Profile,Average capacity utilization (%)*,Direct exports are 10% or more of sales,t3__Direct_exports_are_10_or_more_of_sales,141
+t3,Firm_Profile,Average capacity utilization (%)*,Domestic,t3__Domestic,169
+t3,Firm_Profile,Average capacity utilization (%)*,Large (100+),t3__Large_100,142
+t3,Firm_Profile,Average capacity utilization (%)*,Medium (20-99),t3__Medium_20_99,164
+t3,Firm_Profile,Average capacity utilization (%)*,Non-exporter,t3__Non_exporter,171
+t3,Firm_Profile,Average capacity utilization (%)*,Small (5-19),t3__Small_5_19,168
+t3,Firm_Profile,Average capacity utilization (%)*,Top manager is female,t3__Top_manager_is_female,141
+t3,Firm_Profile,Average capacity utilization (%)*,Top manager is male,t3__Top_manager_is_male,170
+t7,Innovation_and_Technology,Percent of firms that introduced a new product/service over last 3 years,10% or more foreign ownership,t7__10_or_more_foreign_ownership,170
+t7,Innovation_and_Technology,Percent of firms that introduced a new product/service over last 3 years,All,t7,179
+t7,Innovation_and_Technology,Percent of firms that introduced a new product/service over last 3 years,Direct exports are 10% or more of sales,t7__Direct_exports_are_10_or_more_of_sales,169
+t7,Innovation_and_Technology,Percent of firms that introduced a new product/service over last 3 years,Domestic,t7__Domestic,179
+t7,Innovation_and_Technology,Percent of firms that introduced a new product/service over last 3 years,Large (100+),t7__Large_100,165
+t7,Innovation_and_Technology,Percent of firms that introduced a new product/service over last 3 years,Medium (20-99),t7__Medium_20_99,179
+t7,Innovation_and_Technology,Percent of firms that introduced a new product/service over last 3 years,Non-exporter,t7__Non_exporter,179
+t7,Innovation_and_Technology,Percent of firms that introduced a new product/service over last 3 years,Small (5-19),t7__Small_5_19,179
+t7,Innovation_and_Technology,Percent of firms that introduced a new product/service over last 3 years,Top manager is female,t7__Top_manager_is_female,176
+t7,Innovation_and_Technology,Percent of firms that introduced a new product/service over last 3 years,Top manager is male,t7__Top_manager_is_male,179
+t8,Innovation_and_Technology,Percent of firms whose new product/service is also new to the main market,10% or more foreign ownership,t8__10_or_more_foreign_ownership,131
+t8,Innovation_and_Technology,Percent of firms whose new product/service is also new to the main market,All,t8,177
+t8,Innovation_and_Technology,Percent of firms whose new product/service is also new to the main market,Direct exports are 10% or more of sales,t8__Direct_exports_are_10_or_more_of_sales,133
+t8,Innovation_and_Technology,Percent of firms whose new product/service is also new to the main market,Domestic,t8__Domestic,177
+t8,Innovation_and_Technology,Percent of firms whose new product/service is also new to the main market,Large (100+),t8__Large_100,141
+t8,Innovation_and_Technology,Percent of firms whose new product/service is also new to the main market,Medium (20-99),t8__Medium_20_99,166
+t8,Innovation_and_Technology,Percent of firms whose new product/service is also new to the main market,Non-exporter,t8__Non_exporter,177
+t8,Innovation_and_Technology,Percent of firms whose new product/service is also new to the main market,Small (5-19),t8__Small_5_19,171
+t8,Innovation_and_Technology,Percent of firms whose new product/service is also new to the main market,Top manager is female,t8__Top_manager_is_female,141
+t8,Innovation_and_Technology,Percent of firms whose new product/service is also new to the main market,Top manager is male,t8__Top_manager_is_male,175
+t9,Innovation_and_Technology,Percent of firms that introduced a process innovation over last 3 years,10% or more foreign ownership,t9__10_or_more_foreign_ownership,170
+t9,Innovation_and_Technology,Percent of firms that introduced a process innovation over last 3 years,All,t9,179
+t9,Innovation_and_Technology,Percent of firms that introduced a process innovation over last 3 years,Direct exports are 10% or more of sales,t9__Direct_exports_are_10_or_more_of_sales,169
+t9,Innovation_and_Technology,Percent of firms that introduced a process innovation over last 3 years,Domestic,t9__Domestic,179
+t9,Innovation_and_Technology,Percent of firms that introduced a process innovation over last 3 years,Large (100+),t9__Large_100,165
+t9,Innovation_and_Technology,Percent of firms that introduced a process innovation over last 3 years,Medium (20-99),t9__Medium_20_99,179
+t9,Innovation_and_Technology,Percent of firms that introduced a process innovation over last 3 years,Non-exporter,t9__Non_exporter,179
+t9,Innovation_and_Technology,Percent of firms that introduced a process innovation over last 3 years,Small (5-19),t9__Small_5_19,179
+t9,Innovation_and_Technology,Percent of firms that introduced a process innovation over last 3 years,Top manager is female,t9__Top_manager_is_female,176
+t9,Innovation_and_Technology,Percent of firms that introduced a process innovation over last 3 years,Top manager is male,t9__Top_manager_is_male,179
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,10% or more foreign ownership,wk2__10_or_more_foreign_ownership,97
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,All,wk2,158
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,Direct exports are 10% or more of sales,wk2__Direct_exports_are_10_or_more_of_sales,112
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,Domestic,wk2__Domestic,156
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,Large (100+),wk2__Large_100,118
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,Manufacturing (All),wk2__Manufacturing_All,158
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,Medium (20-99),wk2__Medium_20_99,145
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,Non-exporter,wk2__Non_exporter,155
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,Small (5-19),wk2__Small_5_19,106
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,Top manager is female,wk2__Top_manager_is_female,89
+wk2,Workforce,Average proportion of workers offered formal training over last fiscal year (%)*,Top manager is male,wk2__Top_manager_is_male,152

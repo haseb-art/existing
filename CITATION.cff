@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it and the associated manuscript."
+title: "Firm Capabilities and Employment Growth across Economies"
+type: software
+authors:
+  - family-names: Rahman
+    given-names: "Md. Hasebur"
+    affiliation: "Department of Business Administration, Pabna University of Science and Technology"
+    orcid: "https://orcid.org/0000-0002-2216-2532"
