@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it and the associated manuscript."
 title: "Firm Capabilities and Employment Growth across Economies"
+url: "https://github.com/haseb-art/existing"
 type: software
 authors:
   - family-names: Rahman
